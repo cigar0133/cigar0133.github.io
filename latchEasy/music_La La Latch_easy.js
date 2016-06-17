@@ -131,19 +131,19 @@ function gameStop(){
 		getD();
 }
 function getS(){
-	document.location.href="../ºôµ{´Á¥½±M®×/S_level.html";
+	document.location.href="../final/S_level.html";
 }
 function getA(){
-	document.location.href="../ºôµ{´Á¥½±M®×/A_level.html";
+	document.location.href="../final/A_level.html";
 }
 function getB(){
-	document.location.href="../ºôµ{´Á¥½±M®×/B_level.html";
+	document.location.href="../final/B_level.html";
 }
 function getC(){
-	document.location.href="../ºôµ{´Á¥½±M®×/C_level.html";
+	document.location.href="../final/C_level.html";
 }
 function getD(){
-	document.location.href="../ºôµ{´Á¥½±M®×/D_level.html";
+	document.location.href="../final/D_level.html";
 }
 //æŒ‰éˆ•æŒ‰ä¸‹å¾Œæ¶ˆå¤±
 function deleteButton(){
